@@ -1,6 +1,7 @@
-## Welcome to the new CAADRIA site hosted on GitHub! Yes! We're now open association!
-
-# What is CAADRIA?
+---
+title: Welcome to CAADRIA
+---
+## What is CAADRIA?
 
 The Association for Computer-Aided Architectural Design Research in Asia (CAADRIA) promotes teaching and research in CAAD in Asia, and has members on six continents.
 
